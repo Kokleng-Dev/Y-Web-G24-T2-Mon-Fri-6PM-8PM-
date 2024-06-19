@@ -1,5 +1,5 @@
 <?php
-echo "hello 1 php";
+echo "hello 1 php blah blah";
 // local variable
 // $b = 'test';
 // function name(){
