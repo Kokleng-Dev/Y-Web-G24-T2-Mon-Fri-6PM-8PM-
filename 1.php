@@ -4,6 +4,8 @@ echo "this is my code from developer 1";
 echo "hello from developer 2";
 echo "hehe my thing ....";
 echo "hello php from dev 1";
+
+echo "c++";
 // local variable
 // $b = 'test';
 // function name(){
