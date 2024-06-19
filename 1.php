@@ -1,11 +1,8 @@
 <?php
-<<<<<<< HEAD
 echo "hello kokleng";
 echo "hello real kokleng";
-=======
 echo "hello kokleng + seyha";
 echo "real seyha";
->>>>>>> remotes/origin/seyha
 // local variable
 // $b = 'test';
 // function name(){
