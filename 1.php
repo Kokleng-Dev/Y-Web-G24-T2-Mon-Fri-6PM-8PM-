@@ -12,6 +12,10 @@ echo "c++";
 //     $a = 'asd';
 // }
 
+$x = 10;
+$y = 12;
+$total = $x + $y;
+echo $total;
 // name();
 // echo $b;
 
