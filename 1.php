@@ -1,11 +1,23 @@
 <?php
-
+echo "hello 1 php blah blah 123";
+echo "this is my code from developer 1";
+echo "hello from developer 2";
+echo "hehe my thing ....";
+echo "hello php from dev 1";
+echo "123";
+echo "c++";
+echo "hehe my thing ....";
+echo "123";
 // local variable
 // $b = 'test';
 // function name(){
 //     $a = 'asd';
 // }
 
+$x = 10;
+$y = 12;
+$total = $x + $y;
+echo $total;
 // name();
 // echo $b;
 
