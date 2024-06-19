@@ -1,6 +1,7 @@
 <?php
 echo "hello 1 php blah blah 123";
 echo "this is my code from developer 1";
+echo "hello from developer 2";
 // local variable
 // $b = 'test';
 // function name(){
