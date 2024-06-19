@@ -1,5 +1,5 @@
 <?php
-echo "hello kokleng";
+echo "hello kokleng + seyha";
 // local variable
 // $b = 'test';
 // function name(){
