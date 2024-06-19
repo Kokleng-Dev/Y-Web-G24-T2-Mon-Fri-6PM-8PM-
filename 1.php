@@ -6,6 +6,7 @@ echo "hehe my thing ....";
 echo "hello php from dev 1";
 
 echo "c++";
+echo "hehe my thing ....";
 // local variable
 // $b = 'test';
 // function name(){
